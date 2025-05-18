@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/28tec.iml" filepath="$PROJECT_DIR$/.idea/28tec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If esle/If esle.iml" filepath="$PROJECT_DIR$/If esle/If esle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MAP/MAP.iml" filepath="$PROJECT_DIR$/MAP/MAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang1chieu/Mang1chieu.iml" filepath="$PROJECT_DIR$/Mang1chieu/Mang1chieu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SET/SET.iml" filepath="$PROJECT_DIR$/SET/SET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanhBuoi1/ThucHanhBuoi1.iml" filepath="$PROJECT_DIR$/ThucHanhBuoi1/ThucHanhBuoi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ngu/ngu.iml" filepath="$PROJECT_DIR$/ngu/ngu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
